@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-.btn{
+#btn{
 	background-color:black;
 	color:white;
 	border-radius:5px;
@@ -11,7 +11,7 @@
 	height:50px;
 }
 
-.btn:hover{
+#btn:hover{
 	background-color:yellow;
 	color:black;
 	border-radius:30px;
